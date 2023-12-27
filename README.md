@@ -29,7 +29,7 @@ This project is a Discord bot built with [SvelteKit](https://kit.svelte.dev/) an
 To start the bot, run the following command:
 
 ```bash
-npm run start
+npm run dev
 ```
 The bot will connect to Discord using the provided token.
 
